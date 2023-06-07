@@ -1,0 +1,10 @@
+@media (min-width: 768px) {
+  .advice {
+    padding-inline: 5rem;
+    width: 38.6rem;
+  }
+  .advice p {
+    font-size: 2.1rem;
+    padding: 2.6rem;
+  }
+}
